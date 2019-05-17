@@ -2,8 +2,8 @@ package bip32
 
 import (
 	"bytes"
-	"crypto/sha256"
 	"crypto/elliptic"
+	"crypto/sha256"
 	"encoding/binary"
 	"fmt"
 	"io"

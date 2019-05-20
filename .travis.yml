@@ -1,6 +1,6 @@
 language: go
 
-go_import_path: tyler-smith/go-bip32
+go_import_path: github.com/tyler-smith/go-bip32
 go: 
  - 1.8.1
  - tip
